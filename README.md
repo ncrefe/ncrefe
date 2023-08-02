@@ -2,6 +2,7 @@
 <h3 align="center">Computer Engineer</h3>
 
 - 📫 How to reach me **efeincir@hotmail.com**
+- Currently interested in Data Science
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
