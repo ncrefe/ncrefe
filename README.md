@@ -2,8 +2,16 @@
 
 - 📫 How to reach me **efeincir@hotmail.com**
 - <a href="https://linkedin.com/in/ncrefe" target="blank"><img src="https://github.com/ncrefe/ncrefe/assets/61871610/471d0205-e542-4d68-a130-9686fef3e45b" alt="drawing" width="20"/></a> Let's connect on <a href="https://linkedin.com/in/ncrefe">LinkedIn</a>
-- <a href="https://kaggle.com/ncrefe" target="blank"><img src="https://github.com/ncrefe/ncrefe/assets/61871610/073c5779-efe0-4a7c-b7cd-999712944293" alt="drawing" width="20"/></a> I'm at <a href="https://kaggle.com/ncrefe">Kaggle</a> too
+- <a href="https://kaggle.com/ncrefe" target="blank"><img src="https://github.com/ncrefe/ncrefe/assets/61871610/073c5779-efe0-4a7c-b7cd-999712944293" alt="drawing" width="20"/></a> I'm at <a href="https://kaggle.com/ncrefe">Kaggle</a>
+- <a href="https://medium.com/@mefeincir" target="blank"><img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="drawing" width="20"/></a> Writing on <a href="https://kaggle.com/ncrefe">Medium</a>
 
+<h3 align="left">Medium Articles</h3>
+<ul>
+  <li><a href="https://medium.com/@mefeincir/boosting-algorithms-7508397895da" target="blank">Boosting Algorithms<a/></li>
+  <li><a href="https://medium.com/@mefeincir/searching-algorithms-for-hyperparameters-1b84cbeab978" target="blank">Searching Algorithms For Hyperparameters<a/></li>
+  <li><a href="https://medium.com/@mefeincir/robust-algorithms-to-outliers-c13ebb51494" target="blank">Robust Algorithms to Outliers<a/></li> 
+  </ul>
+ 
 <h3 align="left">Languages</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -34,5 +42,3 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer" align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ncrefe&show_icons=true&locale=en&layout=compact" alt="ncrefe" /></p>
