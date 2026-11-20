@@ -2,16 +2,11 @@
 
 # Efe İncir
 
-### Computer Engineer | AI Researcher
+**Computer Engineer · AI Researcher**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=539BF5&center=true&vCenter=true&width=700&height=45&lines=Exploring+World+Models+%26+Physical+AI;Computer+Vision+%26+Deep+Learning;Building+Intelligent+Systems;Researching+Predictive+Representations" alt="Typing SVG" />
+*M.Sc. Computer Science — University of Bonn*
 
-**M.Sc. Computer Science @ University of Bonn**
-
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/ncrefe/)
-[![Medium](https://img.shields.io/badge/✍️_Medium-000000?style=flat-square)](https://medium.com/@mefeincir)
-[![Kaggle](https://img.shields.io/badge/📊_Kaggle-20BEFF?style=flat-square)](https://www.kaggle.com/ncrefe)
-[![Google Scholar](https://img.shields.io/badge/🎓_Google_Scholar-4285F4?style=flat-square)](https://scholar.google.com/citations?user=hH0unnQAAAAJ)
+[💼 LinkedIn](https://www.linkedin.com/in/ncrefe/) · [✍️ Medium](https://medium.com/@mefeincir) · [📊 Kaggle](https://www.kaggle.com/ncrefe) · [🎓 Google Scholar](https://scholar.google.com/citations?user=hH0unnQAAAAJ)
 
 </div>
 
@@ -19,30 +14,17 @@
 
 ### 👋 About Me
 
-I'm a Computer Engineer and M.Sc. Computer Science student at the **University of Bonn**, currently working as a Research Assistant in two research groups.
+I'm a Computer Engineer and M.Sc. Computer Science student at the **University of Bonn**, currently working as a Research Assistant in two research groups:
 
-- **Computer Vision Group – University of Bonn:** Research on computer vision, video understanding, implementation and reproduction of state-of-the-art methods, and experimental evaluation.
-- **Land Economics Group – University of Bonn:** Developing LLM-based document understanding and OCR extraction pipelines, working with large-scale datasets and GPU-based HPC workflows.
-
-My broader research interests lie in **World Models and Physical AI**, particularly predictive representations, action-conditioned video generation, embodied intelligence, and learning dynamic environments.
-
-I enjoy exploring research ideas, reproducing scientific papers, and building practical AI systems.
+- **Computer Vision Group** — Computer vision, video analytics, and experimental evaluation of deep learning methods.
+- **Land Economics Group** — LLM-based document understanding, OCR pipelines, and large-scale data processing.
 
 ### 🔬 Research Interests
 
-- 🌍 World Models & Predictive Representations
+- 🌍 World Models & Generative Models
 - 🤖 Physical AI & Embodied Intelligence
-- 🎥 Video Understanding & Generative Video Models
 - 🧠 Self-Supervised Learning & Representation Learning
-- 🔄 Action-Conditioned Prediction & Temporal Dynamics
-- 🧩 Multimodal Learning & Intelligent Systems
-
-### 💼 Professional Experience
-
-- **Research Assistant** — Computer Vision Group, University of Bonn
-- **Research Assistant** — Land Economics Group, University of Bonn
-- **Data Scientist** — HOPI
-- **Software Development & Engineering** — Previous experience across software development, banking technology, and data-driven applications.
+- 🔍 Counterfactual Modeling, Robustness & Out-of-Distribution Generalization
 
 ### 📝 Medium Articles
 
@@ -53,48 +35,56 @@ I enjoy exploring research ideas, reproducing scientific papers, and building pr
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack
 
-**Programming Languages**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 
-**Machine Learning & Deep Learning**
+**Machine Learning & AI**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![BERT](https://img.shields.io/badge/BERT-4285F4?style=flat-square)
 
-`Scikit-Learn` · `XGBoost` · `LightGBM` · `CUDA`
+**NLP & Data Processing**
 
-**Computer Vision & Generative AI**
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square)
+![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=opencv" />
+**Databases**
 
-`OpenCV` · `Object Detection` · `Video Analytics` · `Diffusion Models` · `Generative Models`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**NLP & Large Language Models**
+**Cloud & DevOps**
 
-`Hugging Face Transformers` · `BERT` · `LLMs` · `spaCy` · `NLTK`
-
-**Data Engineering & Databases**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
-
-`SQL` · `Pandas` · `NumPy` · `Apache Airflow` · `Databricks` · `PySpark`
-
-**Cloud, DevOps & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,heroku" />
-
-`HPC` · `GPU Computing` · `Parallel Processing` · `Git` · `GitHub`
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 **Software Development**
 
-<img src="https://skillicons.dev/icons?i=spring,git,github" />
-
-`Spring Boot` · `REST APIs` · `Backend Development`
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=539BF5&height=100&section=footer" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=539BF5&height=80&section=footer" width="100%" />
+
 </div>
