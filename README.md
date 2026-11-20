@@ -7,6 +7,7 @@
 
 <h3 align="left">Medium Articles</h3>
 <ul>
+  <li><a href="https://medium.com/@mefeincir/evcenternet-article-fa778c127c54" target="blank">Teaching an Object Detector to Say 'I'm Not Sure': EvCenterNet<a/></li>
   <li><a href="https://medium.com/@mefeincir/boosting-algorithms-7508397895da" target="blank">Boosting Algorithms<a/></li>
   <li><a href="https://medium.com/@mefeincir/searching-algorithms-for-hyperparameters-1b84cbeab978" target="blank">Searching Algorithms For Hyperparameters<a/></li>
   <li><a href="https://medium.com/@mefeincir/robust-algorithms-to-outliers-c13ebb51494" target="blank">Robust Algorithms to Outliers<a/></li> 
