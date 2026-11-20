@@ -4,7 +4,7 @@
 
 **Computer Engineer · AI Researcher**
 
-*M.Sc. Computer Science — University of Bonn*
+*M.Sc. Computer Science - University of Bonn*
 
 [💼 LinkedIn](https://www.linkedin.com/in/ncrefe/) · [✍️ Medium](https://medium.com/@mefeincir) · [📊 Kaggle](https://www.kaggle.com/ncrefe) · [🎓 Google Scholar](https://scholar.google.com/citations?user=hH0unnQAAAAJ)
 
