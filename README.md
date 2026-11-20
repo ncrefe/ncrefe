@@ -1,58 +1,100 @@
-<h3 align="center">Computer Engineer & AI Engineer</h3>
+<div align="center">
 
-- 📫 How to reach me **efeincir@hotmail.com**
-- <a href="https://linkedin.com/in/ncrefe" target="blank"><img src="https://github.com/ncrefe/ncrefe/assets/61871610/471d0205-e542-4d68-a130-9686fef3e45b" alt="drawing" width="20"/></a> Let's connect on <a href="https://linkedin.com/in/ncrefe">LinkedIn</a>
-- <a href="https://kaggle.com/ncrefe" target="blank"><img src="https://github.com/ncrefe/ncrefe/assets/61871610/073c5779-efe0-4a7c-b7cd-999712944293" alt="drawing" width="20"/></a> I'm at <a href="https://kaggle.com/ncrefe">Kaggle</a>
-- <a href="https://scholar.google.com.tr/citations?user=hH0unnQAAAAJ&hl=tr" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" alt="drawing" width="20"/></a> Publications on <a href="https://scholar.google.com.tr/citations?user=hH0unnQAAAAJ&hl=tr">Google Scholar</a>
+# Efe İncir
 
-<h3 align="left">Medium Articles</h3>
-<ul>
-  <li><a href="https://medium.com/@mefeincir/evcenternet-article-fa778c127c54" target="blank">Teaching an Object Detector to Say 'I'm Not Sure': EvCenterNet<a/></li>
-  <li><a href="https://medium.com/@mefeincir/boosting-algorithms-7508397895da" target="blank">Boosting Algorithms<a/></li>
-  <li><a href="https://medium.com/@mefeincir/searching-algorithms-for-hyperparameters-1b84cbeab978" target="blank">Searching Algorithms For Hyperparameters<a/></li>
-  <li><a href="https://medium.com/@mefeincir/robust-algorithms-to-outliers-c13ebb51494" target="blank">Robust Algorithms to Outliers<a/></li> 
-</ul>
+### Computer Engineer | AI Researcher
 
-<h3 align="left">Languages</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=539BF5&center=true&vCenter=true&width=700&height=45&lines=Exploring+World+Models+%26+Physical+AI;Computer+Vision+%26+Deep+Learning;Building+Intelligent+Systems;Researching+Predictive+Representations" alt="Typing SVG" />
 
-<p align="left">
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></a>
-</p>
+**M.Sc. Computer Science @ University of Bonn**
 
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/ncrefe/)
+[![Medium](https://img.shields.io/badge/✍️_Medium-000000?style=flat-square)](https://medium.com/@mefeincir)
+[![Kaggle](https://img.shields.io/badge/📊_Kaggle-20BEFF?style=flat-square)](https://www.kaggle.com/ncrefe)
+[![Google Scholar](https://img.shields.io/badge/🎓_Google_Scholar-4285F4?style=flat-square)](https://scholar.google.com/citations?user=hH0unnQAAAAJ)
 
-<h3 align="left">Cloud & Devops</h3>
+</div>
 
-<p align="left">
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
-<a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/></a>
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
-</p>
+---
 
+### 👋 About Me
 
-<h3 align="left">Tools</h3>
+I'm a Computer Engineer and M.Sc. Computer Science student at the **University of Bonn**, currently working as a Research Assistant in two research groups.
 
-<p align="left">
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-<a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
-<a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/></a>
-<a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
-<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a>
-<a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
-</p>
+- **Computer Vision Group – University of Bonn:** Research on computer vision, video understanding, implementation and reproduction of state-of-the-art methods, and experimental evaluation.
+- **Land Economics Group – University of Bonn:** Developing LLM-based document understanding and OCR extraction pipelines, working with large-scale datasets and GPU-based HPC workflows.
 
+My broader research interests lie in **World Models and Physical AI**, particularly predictive representations, action-conditioned video generation, embodied intelligence, and learning dynamic environments.
 
-<h3 align="left">Other</h3>
+I enjoy exploring research ideas, reproducing scientific papers, and building practical AI systems.
 
-<p align="left">
-<a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/></a>
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-</p>
+### 🔬 Research Interests
+
+- 🌍 World Models & Predictive Representations
+- 🤖 Physical AI & Embodied Intelligence
+- 🎥 Video Understanding & Generative Video Models
+- 🧠 Self-Supervised Learning & Representation Learning
+- 🔄 Action-Conditioned Prediction & Temporal Dynamics
+- 🧩 Multimodal Learning & Intelligent Systems
+
+### 💼 Professional Experience
+
+- **Research Assistant** — Computer Vision Group, University of Bonn
+- **Research Assistant** — Land Economics Group, University of Bonn
+- **Data Scientist** — HOPI
+- **Software Development & Engineering** — Previous experience across software development, banking technology, and data-driven applications.
+
+### 📝 Medium Articles
+
+- [Teaching an Object Detector to Say 'I'm Not Sure': EvCenterNet](https://medium.com/@mefeincir/evcenternet-article-fa778c127c54)
+- [Boosting Algorithms](https://medium.com/@mefeincir/boosting-algorithms-7508397895da)
+- [Searching Algorithms For Hyperparameters](https://medium.com/@mefeincir/searching-algorithms-for-hyperparameters-1b84cbeab978)
+- [Robust Algorithms to Outliers](https://medium.com/@mefeincir/robust-algorithms-to-outliers-c13ebb51494)
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+**Programming Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs" />
+
+**Machine Learning & Deep Learning**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
+`Scikit-Learn` · `XGBoost` · `LightGBM` · `CUDA`
+
+**Computer Vision & Generative AI**
+
+<img src="https://skillicons.dev/icons?i=opencv" />
+
+`OpenCV` · `Object Detection` · `Video Analytics` · `Diffusion Models` · `Generative Models`
+
+**NLP & Large Language Models**
+
+`Hugging Face Transformers` · `BERT` · `LLMs` · `spaCy` · `NLTK`
+
+**Data Engineering & Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+
+`SQL` · `Pandas` · `NumPy` · `Apache Airflow` · `Databricks` · `PySpark`
+
+**Cloud, DevOps & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,heroku" />
+
+`HPC` · `GPU Computing` · `Parallel Processing` · `Git` · `GitHub`
+
+**Software Development**
+
+<img src="https://skillicons.dev/icons?i=spring,git,github" />
+
+`Spring Boot` · `REST APIs` · `Backend Development`
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=539BF5&height=100&section=footer" width="100%" />
+</div>
